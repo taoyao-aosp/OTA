@@ -3,25 +3,21 @@
     {
       "maintainer": "ammarbahtiarasli",
       "currently_maintained": true,
-      "oem": "xiaomi",
-      "device": "taoyao",
+      "oem": "Xiaomi",
+      "device": "Xiaomi 12 Lite",
       "filename": "EvolutionX-16.0-20250815-taoyao-11.0-Unofficial.zip",
-      "download": "https://sourceforge.net/projects/ammarbahtiarasli/files/roms/16.0-bka/EvolutionX/",
-      "timestamp": 1753424466,
-      "md5": "e0dcc090110ab92bf79781b92daf306c",
-      "sha256": "9b9e5eb4ba98753fc580a1482bd1a848128ccf7058482ae94933f9e4cb85f807",
-      "size": 2602393835,
+      "download": "https://sourceforge.net/projects/ammarbahtiarasli/files/roms/16.0-bka/EvolutionX/EvolutionX-16.0-20250815-taoyao-11.0-Unofficial.zip/download",
+      "timestamp": 1755265911,
+      "md5": "8fed9c555779ff9bc3bd7142ed44e03d",
+      "sha256": "12b2f6a13ab7ca2d62c7b745ab6353f44a0a4a841797be85bdcc9f8a32ed8ee5",
+      "size": 2883729138,
       "version": "11.0",
       "buildtype": "user",
-      "forum": "https://t.me/Xiaomi12LiteIDUpdate",
+      "forum": "https://t.me/taoyaoaosp",
       "firmware": "",
       "paypal": "https://paypal.me/ammarbahtiarasli",
       "github": "ammarbahtiarasli",
-      "initial_installation_images": [
-        "boot",
-        "dtbo",
-        "vendor_boot"
-      ],
+      "initial_installation_images": [],
       "extra_images": []
     }
   ]

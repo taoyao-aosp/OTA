@@ -9,5 +9,6 @@ Notes:
 
 Device changes:
 ==============================
-
+Add OTA support
+Fix DPI issue
 
