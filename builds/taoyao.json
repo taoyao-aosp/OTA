@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "ammarbahtiarasli",
+      "currently_maintained": true,
+      "oem": "xiaomi",
+      "device": "taoyao",
+      "filename": "EvolutionX-16.0-20250815-taoyao-11.0-Unofficial.zip",
+      "download": "https://sourceforge.net/projects/ammarbahtiarasli/files/roms/16.0-bka/EvolutionX/",
+      "timestamp": 1753424466,
+      "md5": "e0dcc090110ab92bf79781b92daf306c",
+      "sha256": "9b9e5eb4ba98753fc580a1482bd1a848128ccf7058482ae94933f9e4cb85f807",
+      "size": 2602393835,
+      "version": "11.0",
+      "buildtype": "user",
+      "forum": "https://t.me/Xiaomi12LiteIDUpdate",
+      "firmware": "",
+      "paypal": "https://paypal.me/ammarbahtiarasli",
+      "github": "ammarbahtiarasli",
+      "initial_installation_images": [
+        "boot",
+        "dtbo",
+        "vendor_boot"
+      ],
+      "extra_images": []
+    }
+  ]
+}
