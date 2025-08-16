@@ -11,4 +11,6 @@ Device changes:
 ==============================
 Add OTA support
 Fix DPI issue
+If you like it and want to keep updating for future projects don't forget to donate.
+
 
