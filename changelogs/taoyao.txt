@@ -9,8 +9,6 @@ Notes:
 
 Device changes:
 ==============================
-Add OTA support
-Fix DPI issue
+Sync latest source evolutionX 11.1
+Still test OTA support
 If you like it and want to keep updating for future projects don't forget to donate.
-
-
