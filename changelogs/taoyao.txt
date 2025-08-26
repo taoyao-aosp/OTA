@@ -9,6 +9,7 @@ Notes:
 
 Device changes:
 ==============================
-Sync latest source evolutionX 11.1
-Still test OTA support
+Sync latest source EvolutionX 11.1
+Update Prebuilt Kernel & Blobs from 1.0.23.0 ULIMIXM
+OTA Support
 If you like it and want to keep updating for future projects don't forget to donate.
