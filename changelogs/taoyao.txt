@@ -9,7 +9,8 @@ Notes:
 
 Device changes:
 ==============================
-Sync latest source EvolutionX 11.1
+Sync latest source EvolutionX 11.1 security patch August 2025
 Update Prebuilt Kernel & Blobs from 1.0.23.0 ULIMIXM
-OTA Support
+Fix IR Blaster thanks to @smgreborn
+
 If you like it and want to keep updating for future projects don't forget to donate.
