@@ -5,19 +5,21 @@
       "currently_maintained": true,
       "oem": "Xiaomi",
       "device": "Xiaomi 12 Lite",
-      "filename": "EvolutionX-16.0-20250913-taoyao-11.2-Unofficial.zip",
-      "download": "https://sourceforge.net/projects/ammarbahtiarasli/files/roms/16.0-bka/EvolutionX/EvolutionX-16.0-20250913-taoyao-11.2-Unofficial.zip/download",
-      "timestamp": 1757783160,
-      "md5": "aa472abfb77567c192f348d1e65fd215",
-      "sha256": "9b0e0a3f74d9f8f16350cc2617a65dc4f89f6fdf7239ec5ff24200e5a51a8ed2",
-      "size": 3061808510,
+      "filename": "EvolutionX-16.0-20250917-taoyao-11.2-Unofficial.zip",
+      "download": "https://sourceforge.net/projects/ammarbahtiarasli/files/roms/16.0-bka/EvolutionX/EvolutionX-16.0-20250917-taoyao-11.2-Unofficial.zip/download",
+      "timestamp": 1758111761,
+      "md5": "4757eddac3471aa9857e53c043b26589",
+      "sha256": "1f2724225665be41c13d6a370029299fbdbc5b2971e43b97df8637f6837a09a8",
+      "size": 3146409495,
       "version": "11.2",
       "buildtype": "user",
       "forum": "https://t.me/taoyaoaosp",
-      "firmware": "",
+      "firmware": "https://xmfirmwareupdater.com/hyperos/taoyao/stable%20beta/OS1.0.26.0.ULIMIXM/",
       "paypal": "https://paypal.me/ammarbahtiarasli",
       "github": "https://github.com/ammarbahtiarasli",
-      "initial_installation_images": [],
+      "initial_installation_images": [
+        "recovery"
+      ],
       "extra_images": []
     }
   ]
