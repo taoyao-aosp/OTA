@@ -8,7 +8,7 @@ Notes:
 
 Device changes:
 ==============================
-- Sync latest source EvolutionX 11.2 security patch September 2025
+- Sync latest source EvolutionX 11.2.1
 - Update blobs from OS1.0.26.0 ULIMIXM
 - Add Miui Camera
 - Add Dolby Atmos
