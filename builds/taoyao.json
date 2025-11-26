@@ -1,7 +1,7 @@
 {
   "response": [
     {
-      "maintainer": "ammarbahtiarasli",
+      "maintainer": "./a.labs (ammarbahtiarasli)",
       "currently_maintained": true,
       "oem": "Xiaomi",
       "device": "Xiaomi 12 Lite",
@@ -14,7 +14,7 @@
       "version": "11.2.1",
       "buildtype": "user",
       "forum": "https://t.me/taoyaolabs",
-      "firmware": "https://xmfirmwareupdater.com/hyperos/taoyao/stable%20beta/OS1.0.26.0.ULIMIXM/",
+      "firmware": "https://xmfirmwareupdater.com/hyperos/taoyao/",
       "paypal": "https://paypal.me/ammarbahtiarasli",
       "github": "https://github.com/ammarbahtiarasli",
       "initial_installation_images": [
