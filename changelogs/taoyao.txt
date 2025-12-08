@@ -8,7 +8,7 @@ Notes:
 
 Device changes:
 ==============================
-- Sync latest source EvolutionX 11.5
+- Sync latest source Evolution X 11.5 QPR1
 - Update blobs from OS816.0.28.0 ULIMIXM
 - Add Miui Camera
 - Add Dolby Atmos
