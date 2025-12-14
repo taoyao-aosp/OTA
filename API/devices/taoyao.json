@@ -1,0 +1,20 @@
+{
+    "maintainer": [
+        {
+            "display_name": "./a.labs (ammarbahtiarasli)",
+            "telegram": "ammarbahtiarasli",
+            "github": "ammarbahtiarasli"
+        }
+    ],
+    "model": "Xiaomi 12 Lite",
+    "vendor": "Xiaomi",
+    "codename": "taoyao",
+    "codename_alt": "taoyao",
+    "active": true,
+    "version": "sixteen",
+    "release": "monthly",
+    "last_updated": "14 December 2025",
+    "download_link": "https://sourceforge.net/projects/ammarbahtiarasli/files/roms/16.0-bka/PixelOS/",
+    "archive": "https://sourceforge.net/projects/ammarbahtiarasli/files/roms/16.0-bka/PixelOS/",
+    "xda": ""
+}
